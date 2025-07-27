@@ -63,4 +63,4 @@ $conn = new mysqli($host, $username, $password, $database);
 
 **Run the App in Browser**
 
-http://localhost/FastFood/index.php
+http://localhost/FastFood/index.php.
